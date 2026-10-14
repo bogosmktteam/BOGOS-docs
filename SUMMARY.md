@@ -100,6 +100,7 @@
 * [Reviews apps](integration/reviews-apps/README.md)
   * [Judge.me](integration/reviews-apps/judge.me.md)
   * [TrustWill](integration/reviews-apps/trustwill.md)
+  * [Yotpo](integration/reviews-apps/yotpo.md)
 * [Translation apps](integration/translation-apps/README.md)
   * [Transcy](integration/translation-apps/transcy.md)
   * [Weglot](integration/translation-apps/weglot.md)
