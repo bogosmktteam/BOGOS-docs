@@ -21,6 +21,12 @@ There are 2 upsell widget types:
 
 {% embed url="https://youtu.be/JVkftQsJ45o?si=_wiWOBkffz_X3StK" %}
 
+3. **Product Recommendation in Cart Drawer & Cart Page**
+
+<figure><img src="../../.gitbook/assets/image (478).png" alt=""><figcaption></figcaption></figure>
+
+{% embed url="https://youtu.be/y8yLwfSEQTo?si=MxrQIhIczwL3NVJ6" %}
+
 Creating Frequently Bought Together upsell with BOGOS includes the **9 steps**:
 
 1. Open All Offers> Create Offer > Upsell > Frequently Bought Together.
