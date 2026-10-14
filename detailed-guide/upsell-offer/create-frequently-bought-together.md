@@ -7,7 +7,7 @@ description: >-
 
 # Create Frequently Bought Together
 
-There are 2 upsell widget types:
+There are 3 upsell widget types:
 
 1. **Frequently Bought Together**
 
