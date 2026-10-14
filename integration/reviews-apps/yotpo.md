@@ -20,29 +20,26 @@ With BOGOS and Yotpo integration, you can collect authentic reviews from gift pr
 
 **Step 3: Enable the Integration**
 
-In the BOGOS app, go to Integration.
-
-Find Yotpo and click Connect.
-
-Select I have already installed.
+* In the BOGOS app, go to Integration.
+* Find Yotpo and click Connect.
+* Select I have already installed.
 
 <img src="../../.gitbook/assets/unknown (454).png" alt="" height="349" width="624">
 
-Turn on the Yotpo integration toggle.
+* Turn on the Yotpo integration toggle.
 
 <img src="../../.gitbook/assets/unknown (455).png" alt="" height="351" width="624">
 
-You will be redirected to the connect page. Select the Shopify store where you want to enable the BOGOS–Yotpo integration.
+* You will be redirected to the connect page. Select the Shopify store where you want to enable the BOGOS–Yotpo integration.
 
 <img src="../../.gitbook/assets/unknown (456).png" alt="" height="351" width="624">
 
-Click Connect to authorize the integration.
+* Click Connect to authorize the integration.
 
 <img src="../../.gitbook/assets/unknown (457).png" alt="" height="351" width="624">
 
-You will be redirected back to the BOGOS homepage. Go to Integration > Connect Yotpo > I have already installed again.
-
-Under Integration options, turn on the toggle to activate the Yotpo integration one more time
+* You will be redirected back to the BOGOS homepage. Go to Integration > Connect Yotpo > I have already installed again.
+* Under Integration options, turn on the toggle to activate the Yotpo integration one more time
 
 <img src="../../.gitbook/assets/unknown (458).png" alt="" height="349" width="624">
 
@@ -59,7 +56,7 @@ Yotpo shares reviews between products that belong to the same product group tag.
 
 **1. Enable product tags in BOGOS**
 
-In BOGOS, go to Settings > Gift Settings and enable Tags under Include original product details.
+* In BOGOS, go to Settings > Gift Settings and enable Tags under Include original product details.
 
 <br>
 
@@ -69,7 +66,7 @@ In BOGOS, go to Settings > Gift Settings and enable Tags under Include original 
 
 **2. Add a Yotpo group tag to the original product**
 
-In Shopify, add a tag to the original product using the following format:
+* In Shopify, add a tag to the original product using the following format:
 
 `YGroup_[group name]`
 
