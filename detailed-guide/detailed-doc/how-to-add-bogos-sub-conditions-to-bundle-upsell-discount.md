@@ -121,11 +121,11 @@ Shopify Markets must be set up in your Shopify admin before being used in BOGOS.
 1. _Select markets:_ Choose the markets you want to exclude (for example: Europe, Asia).
 2. _Exclude customers from selected markets:_ Enable it to prevent customers from the selected markets from receiving the offer. The offer will apply to customers from all other markets instead.
 
-#### 6. Subscription products
+### 6. Subscription products
 
 This sub-condition lets you apply the offer only to subscription products or only to one-time purchase products, perfect for stores running subscription plans alongside regular purchases.
 
-<img src="../../.gitbook/assets/unknown (444).png" alt="" height="624" width="624">
+![](<../../.gitbook/assets/unknown (468).png>)
 
 Available for Product Discount, Volume Discount, Discount on Cheapest/Most Expensive Item, and Cart Discount.
 

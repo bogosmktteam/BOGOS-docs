@@ -113,7 +113,7 @@ Sub-conditions add extra rules to decide who can see and get your offers. Theref
 * You can combine multiple sub-conditions. Customers must meet all selected criteria to qualify.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/unknown (154).png" alt="" width="503"><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/unknown (463).png>)
 
 1. _Specific link address_ – Apply offers to customers accessing your store from a specific link. Perfect for email campaigns, social posts, or affiliates.
 2. _Order history_ – Target customers based on purchase behavior. Best for rewarding first-time buyers, high spenders, and more.

@@ -96,7 +96,7 @@ When a product has multiple discounts active at the same time, only the largest 
 
 Sub-conditions add extra rules that decide who can see and receive the discount. Only customers who meet the conditions will see and get the offer; others won't see it at all.
 
-![](<../../.gitbook/assets/unknown (326).png>)
+![](<../../.gitbook/assets/unknown (465).png>)
 
 Click Add sub-condition, then choose one or more:
 

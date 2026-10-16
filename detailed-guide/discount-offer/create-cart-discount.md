@@ -157,7 +157,7 @@ The “X/Y used” counter shows current usage (e.g., "89/100 used" means this d
 
 Sub-conditions are optional to set up, but they can add extra rules to decide who can see and get your offers. Therefore, only targeted customers can see and apply the offer, while others won't see it at all.
 
-<figure><img src="../../.gitbook/assets/unknown (60).png" alt="" width="503"><figcaption></figcaption></figure>
+![](<../../.gitbook/assets/unknown (464).png>)
 
 * **Specific link address** – Apply offers to customers accessing your store from a specific link. Perfect for email campaigns, social posts, or affiliates.
 * **Order history** – Target customers based on purchase behavior. Best for rewarding first-time buyers, high spenders, and more.
