@@ -1,7 +1,6 @@
 # Table of contents
 
 * [🤗 BOGOS App Official Help Docs](README.md)
-* [Book a Demo Call](https://calendly.com/bogos-freegift/demomeeting)
 
 ## ABOUT BOGOS APP
 
