@@ -4,11 +4,13 @@ description: Overview of creating a Mix and Match bundle with BOGOS
 
 # Create Mix and Match Bundle
 
+<figure><img src="../../.gitbook/assets/image (485).png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://youtu.be/0y2P2tdWoIM" %}
 
 ## 1. Bundle information
 
-<figure><img src="../../.gitbook/assets/image (248).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (481).png" alt=""><figcaption></figcaption></figure>
 
 ### 1.1 **Bundle Title**
 
@@ -47,7 +49,7 @@ Sub-conditions add extra rules to decide who can see and get your offers. Theref
 
 ## 3. Choose Mix items
 
-<figure><img src="../../.gitbook/assets/image (249).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (487).png" alt=""><figcaption></figcaption></figure>
 
 ### 3.1 **Choose mix item type**
 
@@ -99,7 +101,7 @@ Max quantity must be greater than or equal to min quantity
 
 ## 4. Discount tiers
 
-<figure><img src="../../.gitbook/assets/image (250).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (489).png" alt=""><figcaption></figcaption></figure>
 
 ### 4.1 **Define a discount tier**
 
