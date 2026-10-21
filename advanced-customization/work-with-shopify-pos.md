@@ -110,3 +110,34 @@ To set it up:
 <figure><img src="../.gitbook/assets/unknown (171).png" alt=""><figcaption></figcaption></figure>
 
 _For details on Gift inventory management, please visit_ [_Settings_](../detailed-guide/settings.md#id-5.-gift-inventory-management) _guide._
+
+## Add Classic Bundle to an order on POS
+
+Classic Bundle now works on Shopify POS, letting your in-store staff add bundles to the cart directly from the product detail page. It works the same way on POS as on your online store.
+
+Adding Classic Bundle to an order on POS includes 2 steps:
+
+1. Set up a Classic Bundle offer.
+2. Activate the **BOGOS POS UI extension**.
+
+### Step 1: Set up a Classic Bundle Offer
+
+In BOGOS app, create or edit a Classic Bundle offer, then click Publish.
+
+For details, please visit our \[[Create Classic Bundle](https://docs.bogos.io/detailed-guide/bundle-offer/create-classic-bundle)] guide.
+
+### Step 2: Activate the BOGOS POS UI Extension
+
+To display Classic Bundle on your POS, you need to activate the BOGOS POS UI extension.
+
+![](<../.gitbook/assets/unknown (472).png>)
+
+To activate, please follow these steps:
+
+1. On your Shopify admin, go to **Point of Sale**.
+2. Click **Edit Point of Sale** on the right side.
+3. In the POS editor, select **BOGOS POS UI extension**.
+4. Under Activate on, toggle on Product details.
+5. Click Save.
+
+Once done, the Classic Bundle will appear on the product detail page in Shopify POS (available on both iOS and Android). Your customers can select variants and tap Add bundle to add it to their cart.
