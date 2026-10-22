@@ -45,12 +45,11 @@ With BOGOS and Yotpo integration, you can collect authentic reviews from gift pr
 
 **Step 4: Select the options you want:**
 
-* Collect reviews through gift products: Reviews collected from cloned gift products will sync with the original.
 * Display star ratings: Show star ratings on the Gift Slider or Bundle Widget.
 
 <img src="../../.gitbook/assets/unknown (459).png" alt="" height="349" width="624">
 
-**Step 5: Configure Product Grouping**
+**Step 5: Configure Product Grouping to Sync Reviews from Gift Clones to the Original Products**
 
 Yotpo shares reviews between products that belong to the same product group tag. To ensure that reviews from gift clones are associated with the original product, add the required group tag to the original product. Gift clones created by BOGOS will inherit this tag.
 
