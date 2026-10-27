@@ -6,7 +6,7 @@ description: Overview of creating a Mix and Match bundle with BOGOS
 
 <figure><img src="../../.gitbook/assets/image (485).png" alt=""><figcaption></figcaption></figure>
 
-{% embed url="https://youtu.be/0y2P2tdWoIM" %}
+{% embed url="https://youtu.be/I0W-A-PusnI" %}
 
 ## 1. Bundle information
 
