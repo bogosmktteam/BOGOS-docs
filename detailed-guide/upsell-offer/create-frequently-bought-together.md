@@ -59,6 +59,44 @@ The upsell will be shown on all product pages with no triggers.
 
 The upsell will only be displayed on the specific products you choose. This is useful when you want to target specific items that are frequently purchased together.
 
+#### 2.2.1 Match Variant of Upsell Products with Trigger Products
+
+Match variant lets your upsell products automatically follow the variant that the customer selects on the trigger product, making the offer feel more personalized and motivate to add to cart.
+
+{% hint style="info" %}
+For example, if the trigger product is New Type Vitamin C and the customer chooses the **dry skin type**, the upsell products will only show their **dry variant**.
+{% endhint %}
+
+![](<../../.gitbook/assets/unknown (485).png>)
+
+Match variant only shows up when all of the following are true:
+
+* Upsell widget type is **Frequently bought together** or **Product Add-on**.
+* Upsell trigger is **Selected products**.
+
+![](<../../.gitbook/assets/unknown (486).png>)
+
+* Select method is **Manual**. If you switch to Auto or Random, the checkbox will be disabled.
+
+![](<../../.gitbook/assets/unknown (487).png>)
+
+* Display placement is **Product page, Cart page, or Cart drawer**. Not available for Checkout upsell or Thank you page upsell.
+
+To set it up, please follow these steps:
+
+![](<../../.gitbook/assets/unknown (488).png>)
+
+1. Tick **Match variant of upsell products with trigger products**.
+2. At **Choose an option to match**, select the option you want to match from the dropdown (e.g., Color, Size). The dropdown lists the option names from your selected trigger products.
+3. At **When the matched option of upsell product is unavailable**, choose how to handle upsell products that don’t have a matching in-stock variant:
+
+* **Let customer choose the remaining options:** The upsell product still shows, and the customer can pick from other available variants.
+* **Hide that upsell product:** The upsell product is hidden from the widget.
+
+{% hint style="warning" %}
+Trigger products: Products without the selected option will be listed in a warning banner and removed from the trigger when you save the offer.
+{% endhint %}
+
 ### 2.3 All except selected products
 
 The upsell will be shown on all product pages except for the specific products you exclude. This option prevents the upsell from appearing on products that do not need additional recommendations.
