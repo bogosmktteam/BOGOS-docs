@@ -20,9 +20,9 @@ description: >-
 The integration between BOGOS and EComposer allows dynamic offer placement and customization.
 {% endhint %}
 
-{% embed url="https://www.youtube.com/watch?v=ZbLplw1go3w" %}
+## How to Integrate BOGOS with EComposer
 
-## How to Install EComposer
+{% embed url="https://www.youtube.com/watch?v=ZbLplw1go3w" %}
 
 **Step 1:** Install EComposer from the [Shopify app store](https://apps.shopify.com/freegifts?utm_source=BOGOS.io\&utm_medium=helpdoc).
 

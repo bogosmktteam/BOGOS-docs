@@ -1,3 +1,7 @@
+---
+description: BOGOS seamlessly integrates with your custom Shopify themes
+---
+
 # Themes
 
 ### What each tool does
@@ -33,11 +37,9 @@ Because the theme controls responsive behavior, BOGOS gift interactions (drawer 
 
 ### Integrated Labels & Badges apps
 
-* [Zest – Shopify Theme](https://themes.shopify.com/themes/zest/styles/gusto?utm_source=BOGOS\&utm_medium=inapp\&utm_campaign=partnership)
-* [Soul by Halo Themes](https://themes.shopify.com/themes/soul/styles/elegant?locale=en\&surface_detail=templates\&surface_inter_position=1\&surface_intra_position=21\&surface_type=templates)
-* [Roar Theme](https://roartheme.co/)
 * [Sleek Theme](https://themes.shopify.com/themes/sleek/presets/sleek?utm_source=BOGOS\&utm_medium=InappBanner\&utm_campaign=partnership)
+* [Zest – Shopify Theme](https://themes.shopify.com/themes/zest/styles/gusto?utm_source=BOGOS\&utm_medium=inapp\&utm_campaign=partnership)
+* [Soul by Halo Themes](https://themes.shopify.com/themes/soul/presets/soul?utm_source=BOGOS\&utm_medium=partner)
+* [Roar Theme](https://roartheme.co/?utm_source=BOGOS\&utm_medium=partner)
 
-
-
-<br>
+{% embed url="https://youtu.be/OKK6Dlb6aK8?si=bV0Cys8PBy_rklLN" %}

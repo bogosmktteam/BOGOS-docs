@@ -20,9 +20,9 @@ PageFly key features:
 The integration between BOGOS and PageFly allows dynamic offer, bundles placement and customization.
 {% endhint %}
 
-{% embed url="https://youtu.be/Mebnses2uJk?si=8bsEtkNI3E1CgspW" %}
+## How to Integrate BOGOS with PageFly
 
-## How to install PageFly
+{% embed url="https://youtu.be/Mebnses2uJk?si=8bsEtkNI3E1CgspW" %}
 
 **Step 1:** Install PageFly from the [Shopify app store](https://shopify.pxf.io/zNEOG7).
 

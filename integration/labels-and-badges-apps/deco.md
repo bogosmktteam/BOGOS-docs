@@ -1,6 +1,11 @@
-# DECO
+---
+description: >-
+  The integration between BOGOS and DECO: Product Labels & Badges gives
+  merchants better tools to promote and highlight their free gift offers, making
+  them more noticeable and effective.
+---
 
-The integration between BOGOS and DECO: Product Labels & Badges gives merchants better tools to promote and highlight their free gift offers, making them more noticeable and effective.
+# DECO
 
 DECO is a versatile Shopify app that enables merchants to create and display custom product labels and badges. These visual elements help draw customer attention to specific products, promotions, or features, thereby improving engagement and conversion rates.
 

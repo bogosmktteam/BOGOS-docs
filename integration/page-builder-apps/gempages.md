@@ -20,9 +20,9 @@ description: >-
 The integration between BOGOS and GemPages allows dynamic offer placement and customization.
 {% endhint %}
 
-{% embed url="https://youtu.be/EGDC3_Hc4Hc?si=zXll7BGnPiH5w78_" %}
+## How to Integrate BOGOS with GemPages
 
-## How to Install GemPages
+{% embed url="https://youtu.be/EGDC3_Hc4Hc?si=zXll7BGnPiH5w78_" %}
 
 **Step 1:** Install GemPages from the [Shopify app store](https://gempages.net/?ref=b111zpqX).
 

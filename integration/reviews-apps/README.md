@@ -26,4 +26,6 @@ The integration lets you show product ratings inside BOGOS components (e.g., sta
 
 [Judge.me – Product Reviews App](https://apps.shopify.com/judgeme?utm_source=bogos\&utm_medium=partner\&utm_campaign=app)
 
-[Trustoo AI - Product Reviews App<br>](https://share.channelwill.com/app/2168f5979005cc2EM3)
+[ CWILL(Trustoo) Product Reviews](https://share.channelwill.com/app/2168f5979005cc2EM3)
+
+[Yotpo - Product Reviews App](yotpo.md)[<br>](https://share.channelwill.com/app/2168f5979005cc2EM3)

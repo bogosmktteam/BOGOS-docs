@@ -17,7 +17,7 @@ description: >-
 * Mobile-first design – All templates are fully responsive, with easy adjustments for fine-tuning.
 * Seamless compatibility – Works with Online Store 2.0 themes and integrates with popular apps like Judge.me, Loox, and Growave.
 
-## How to integrate BOGOS with Foxify
+## How to Integrate BOGOS with Foxify
 
 **Step 1:** Install Foxify from the [Shopify app store.](https://apps.shopify.com/foxify-builder?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration)
 

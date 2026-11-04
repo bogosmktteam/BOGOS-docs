@@ -1,10 +1,15 @@
+---
+description: >-
+  With the integration between BOGOS and Superfans, you can easily create,
+  manage, and display gift promotions on your mobile app directly from a single
+  dashboard.
+---
+
 # Superfans
 
 {% embed url="https://youtu.be/0KbAk1bzALk?si=Zyvot70_HsUNLS0a" %}
 
 [**Superfans**](https://apps.shopify.com/vajro?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration_helpdoc) is a no-code mobile app builder for Shopify and Shopify Plus brands, designed to convert mobile shoppers into loyal customers through native iOS and Android apps. With its intuitive builder and powerful engagement tools, Superfans enables merchants to deliver fast, engaging, and high-converting mobile shopping experiences.
-
-With the integration between [BOGOS](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Superfans) and [Superfans](https://apps.shopify.com/vajro?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration_helpdoc), you can easily create, manage, and display gift promotions on your mobile app directly from a single dashboard.&#x20;
 
 **Superfans key features:**
 

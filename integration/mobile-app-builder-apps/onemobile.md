@@ -1,8 +1,13 @@
+---
+description: >-
+  With the BOGOS and One Mobile integration, you can easily bring your gift
+  offers into a fully customized mobile app experience, helping boost conversion
+  and retention on mobile.
+---
+
 # OneMobile
 
 [One Mobile](https://apps.shopify.com/onemobile) is a powerful mobile app builder for Shopify merchants, designed to help brands launch their own iOS and Android apps quickly without coding. It empowers you to deliver a seamless, on-brand mobile shopping experience that increases customer engagement and loyalty.
-
-With the [BOGOS](https://bogos.io/) and [One Mobile](https://onemobile.ai/) integration, you can easily bring your gift offers into a fully customized mobile app experience, helping boost conversion and retention on mobile.
 
 > **One Mobile key features:**
 
@@ -13,9 +18,9 @@ With the [BOGOS](https://bogos.io/) and [One Mobile](https://onemobile.ai/) inte
 * Fully customizable branding and flexible design elements
 * Real-time sync with your Shopify store – products, collections, and promotions
 
-{% embed url="https://www.youtube.com/watch?v=2QrFQ79YbEo&feature=youtu.be" %}
-
 ### 1. How to set up on OneMobile
+
+{% embed url="https://www.youtube.com/watch?v=2QrFQ79YbEo&feature=youtu.be" %}
 
 **Step 1**: Install One Mobile from the [Shopify app store](https://apps.shopify.com/onemobile)
 

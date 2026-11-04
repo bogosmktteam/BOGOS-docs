@@ -1,6 +1,11 @@
-# Yotpo
+---
+description: >-
+  With BOGOS and Yotpo integration, you can collect authentic reviews from gift
+  products and showcase star ratings directly on the BOGOS gift slider and
+  bundle widget.
+---
 
-With BOGOS and Yotpo integration, you can collect authentic reviews from gift products and showcase star ratings directly on the BOGOS gift slider and bundle widget.
+# Yotpo
 
 [Yotpo](https://apps.shopify.com/yotpo-social-reviews?utm_source=Partner\&utm_medium=BOGOS\&utm_campaign=Helpdoc) is a user-friendly review app that empowers merchants to collect and display authentic customer feedback. With strong social proof, it builds trust and motivates shoppers to convert.
 
@@ -12,7 +17,9 @@ With BOGOS and Yotpo integration, you can collect authentic reviews from gift pr
 * Google & Social Integration – Display reviews across Google and social channels to reach more shoppers and build credibility.
 * Review Sync & Analytics – Easily sync reviews across platforms like TikTok and Walmart, while using detailed analytics to optimize conversions.
 
-## How to integrate BOGOS with Yotpo
+## How to Integrate BOGOS with Yotpo
+
+{% embed url="https://youtu.be/dY6NyUnir1c?si=GdQMd3XsqbxrpBUK" %}
 
 **Step 1: Install BOGOS** from [Shopify App Store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Yotpo) and set up your gift offers
 

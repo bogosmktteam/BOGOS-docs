@@ -26,4 +26,4 @@ Whether a customer chooses one-time purchase or subscription, the correct discou
 
 [Appstle - Subscription Apps](https://apps.shopify.com/subscriptions-by-appstle?utm_source=Partner\&utm_medium=BOGOS\&utm_campaign=Integration)
 
-<br>
+[Recurpay Subscriptions](recurpay.md)

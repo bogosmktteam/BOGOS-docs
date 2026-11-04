@@ -23,9 +23,9 @@ _Judge.me and BOGOS integration is only available for stores with Judge.me's Awe
 Judge.me and BOGOS integration is only available for stores with Judge.me's Awesome plan.
 {% endhint %}
 
-{% embed url="https://youtu.be/HZzd0aamHsE" %}
+## How to Integrate BOGOS with Judgeme
 
-## How to integrate BOGOS with Judgeme
+{% embed url="https://youtu.be/HZzd0aamHsE" %}
 
 **Step 1:** **Install BOGOS** from [Shopify app store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=judgeme) and set up your gift offers
 

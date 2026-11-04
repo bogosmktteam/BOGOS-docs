@@ -16,9 +16,9 @@ description: >-
 * Customizable translation – Fine-tune translations for brand tone, keywords, or regional nuances.
 * SEO-friendly translations – Ensure translated pages are indexed properly for global search engines.
 
-{% embed url="https://youtu.be/9anaiLwaTYc?si=ujDbywMLEwD8YGBq" %}
-
 ## How to integrate BOGOS with Transcy
+
+{% embed url="https://youtu.be/9anaiLwaTYc?si=ujDbywMLEwD8YGBq" %}
 
 **Step 1:** **Install BOGOS** from [Shopify app store](https://apps.shopify.com/freegifts?utm_source=gitbook\&utm_medium=integration\&utm_campaign=Transcy) and set up offers
 
