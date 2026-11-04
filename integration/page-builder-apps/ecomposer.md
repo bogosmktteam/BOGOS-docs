@@ -6,7 +6,7 @@ description: >-
 
 # Ecomposer
 
-EComposer is an easy and fast page builder, that allows merchants to build any page type or section that is stunning and highly convert. Support Landing, Homepage, Collection page, Product, Blog page, Cart page, Footer, Coming Soon Page, 404 page & any theme section
+[EComposer](https://apps.shopify.com/freegifts?utm_source=BOGOS.io\&utm_medium=helpdoc) is an easy and fast page builder, that allows merchants to build any page type or section that is stunning and highly convert. Support Landing, Homepage, Collection page, Product, Blog page, Cart page, Footer, Coming Soon Page, 404 page & any theme section
 
 **EComposer key features:**
 

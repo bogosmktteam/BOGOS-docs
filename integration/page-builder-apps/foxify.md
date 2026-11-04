@@ -6,7 +6,7 @@ description: >-
 
 # Foxify
 
-Foxify is a flexible, high-performance page builder designed to help merchants create visually stunning, conversion-driven Shopify stores. With an intuitive drag-and-drop editor, ready-to-use templates, and built-in sales tools, Foxify makes it easy to design and optimize every page for maximum engagement.
+[Foxify](https://apps.shopify.com/foxify-builder?utm_source=partner\&utm_medium=BOGOS\&utm_campaign=integration) is a flexible, high-performance page builder designed to help merchants create visually stunning, conversion-driven Shopify stores. With an intuitive drag-and-drop editor, ready-to-use templates, and built-in sales tools, Foxify makes it easy to design and optimize every page for maximum engagement.
 
 **Foxify key features:**
 

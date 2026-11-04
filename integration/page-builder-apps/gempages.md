@@ -6,7 +6,7 @@ description: >-
 
 # GemPages
 
-GemPages is a powerful, conversion-focused page builder designed to enhance your Shopify stores. With over 80 conversion-optimized templates and AI-powered layout generation from images or URLs, GemPages offers an effortless way to design a unique, branded online store.&#x20;
+[GemPages](https://gempages.net/?ref=b111zpqX) is a powerful, conversion-focused page builder designed to enhance your Shopify stores. With over 80 conversion-optimized templates and AI-powered layout generation from images or URLs, GemPages offers an effortless way to design a unique, branded online store.&#x20;
 
 **GemPages key features:**
 
@@ -24,7 +24,7 @@ The integration between BOGOS and GemPages allows dynamic offer placement and cu
 
 ## How to Install GemPages
 
-**Step 1:** Install GemPages from the [Shopify app store](https://gempages.net/?ref=xwcvw2rs).
+**Step 1:** Install GemPages from the [Shopify app store](https://gempages.net/?ref=b111zpqX).
 
 <figure><img src="../../.gitbook/assets/bogos.jpg" alt=""><figcaption></figcaption></figure>
 

@@ -7,7 +7,7 @@ description: >-
 
 # Transcy
 
-**Transcy** is the top-rated translation and localization app designed to help merchants create fully multilingual Shopify stores. With its automated translation engine, advanced customization, and seamless app compatibility, Transcy makes it simple to deliver engaging shopping experiences across global markets.
+[**Transcy**](https://apps.shopify.com/transcy-multiple-languages?utm_source=gitbook\&utm_medium=integration\&utm_campaign=BOGOS) is the top-rated translation and localization app designed to help merchants create fully multilingual Shopify stores. With its automated translation engine, advanced customization, and seamless app compatibility, Transcy makes it simple to deliver engaging shopping experiences across global markets.
 
 **Transcy key features:**
 
