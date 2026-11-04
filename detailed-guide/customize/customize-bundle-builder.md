@@ -1,8 +1,11 @@
+---
+description: >-
+  This guide explains how to customize the Bundle Builder, helping you tailor
+  the bundle page to match your store's branding and create a smooth shopping
+  experience for your customers.
+---
+
 # Customize Bundle builder
-
-## Customize Bundle Builder
-
-This guide explains how to customize the Bundle Builder, helping you tailor the bundle page to match your store's branding and create a smooth shopping experience for your customers.
 
 Customizing the Bundle Builder with BOGOS includes the 4 steps:
 
@@ -28,7 +31,7 @@ To set it up, fill in these fields:
   * Products per row&#x20;
   * Number of rows
   * Products per load
-* Load button text: The label on the button customers click to load more products.
+* Hide step icon: Hide the step icon on the step progress bar, showing only the step label/title
 
 #### b) See more modal
 
@@ -91,13 +94,29 @@ Click Save when done.
 * Button color (background)
 * Button text
 
+#### d) Add-on
+
+Search, sort & filter: Customize how the Search bar, Sort, Filter, and Tab filter display on your bundle page.
+
+![](<../../.gitbook/assets/unknown (492).png>)
+
+* Filter display: Choose how filters appear to customers:
+  * Combined: All filter types are grouped under a single Filter button.
+  * Separated: Each filter type has its own button.
+* Show selected filter as tags: Enable to show a row of tags below the filter bar
+
+![](<../../.gitbook/assets/unknown (493).png>)
+
+* Active color: The color applied to the selected tab and the active state of filter buttons.
+* Active filter tag: The background color of the filter tags row.
+
 ### 2. Customize Bundle Summary Field
 
 The Bundle Summary field lets customers review their selected items, track progress toward discount tiers, and add the bundle to their cart. This tab lets you customize its content and styling.
 
 #### a) Content
 
-![](<../../.gitbook/assets/unknown (438).png>)
+<figure><img src="../../.gitbook/assets/image (501).png" alt=""><figcaption></figcaption></figure>
 
 To set it up, fill in these fields:
 
@@ -108,6 +127,7 @@ To set it up, fill in these fields:
 * Tier style: Choose how discount tiers are displayed:
   * Label: Shows the tier as text (e.g., "Buy 2 items get 10% OFF").
   * Progress: Shows a visual progress bar as customers get closer to unlocking the next tier.
+  * None
 
 #### b) Step
 

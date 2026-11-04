@@ -125,9 +125,21 @@ If you are currently on the old usage charge cap, **we recommend you NOT uninsta
 To track your current usage and make sure you stay within your plan's limit:
 
 1. Go to **BOGOS Admin**.
-2. Open `Pricing`.
+2. Open Pricing.
 
 <figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcY14WQUvfqkcD5ALQubQ7DKf1xUN2cl2zNjdmqtOLv6qyx2XoqedxM4eRKiuoBmfnPXRBbYTuTDSQgK50i5UXZ-eAq3TTuxVi7IQ6kUMWBoaRv9hcj3ZNgJv2JOl65FIlGqcZ_Bw?key=_tLk4W5MPMJhg6upvRFZgsf3" alt=""><figcaption></figcaption></figure>
+
+## Reactivate offers after upgrading to Paid Plan
+
+When you upgrade from Free to a Paid plan within 1 hour of hitting the 30-order limit, BOGOS helps you bring back your previously active offers in one click.
+
+![](<../.gitbook/assets/unknown (494).png>)
+
+**How it works:**
+
+* On BOGOS > All offers, a banner appears: "You've upgraded to the Full plan! Turn on {N} offers that were active before".
+* Click Reactivate offers.
+* A list of your previously active offers appears, all pre-selected. Uncheck any you don't want to turn back on.
 
 ## Frequently Asked Questions (FAQ)
 

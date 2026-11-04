@@ -4,6 +4,8 @@ description: Overview of creating a Bundle builder with BOGOS
 
 # Create Bundle Builder
 
+<figure><img src="../../../.gitbook/assets/image (491).png" alt=""><figcaption></figcaption></figure>
+
 {% embed url="https://youtu.be/N6XmiirL3wY" %}
 
 This feature allows store owners to create a "Build your own bundle" page for customers to create a bundle customized to their needs. This feature is designed to enhance customer engagement and increase average order value by offering tailored bundling options.
@@ -12,7 +14,7 @@ This feature allows store owners to create a "Build your own bundle" page for cu
 
 The **Bundle Information** section allows you to configure the foundational details of your Bundle builder. Each input field is explained below to help you set up your bundle effectively.
 
-<figure><img src="../../../.gitbook/assets/image (138).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (490).png" alt=""><figcaption></figcaption></figure>
 
 ### **1.1. Bundle name**
 
@@ -20,15 +22,15 @@ A unique identifier for your bundle. This name will not be visible to customers 
 
 ### **1.2. Page heading**
 
-<figure><img src="../../../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
-
 The title displayed at the top of your Bundle builder, visible to customers.
+
+<figure><img src="../../../.gitbook/assets/image (496).png" alt=""><figcaption></figcaption></figure>
 
 ### **1.3. Page sub-heading**
 
-<figure><img src="../../../.gitbook/assets/image (135).png" alt=""><figcaption></figcaption></figure>
-
 A subtitle displayed beneath the heading, providing additional information about the bundle.
+
+<figure><img src="../../../.gitbook/assets/image (497).png" alt=""><figcaption></figcaption></figure>
 
 ### **1.4. Start & End time**
 
@@ -36,12 +38,12 @@ The date and time when the bundle offer will become active.
 
 The date and time when the bundle offer will expire.
 
-### **1.6. Steps**
+### **1.5. Steps**
 
 * **One step per page:** Displays one product selection step at a time, creating a step-by-step flow for customers.
 * **Multiple steps in one page:** Displays all steps on a single page, allowing customers to complete their selections in one view.
 
-### **1.7. Banner Image**
+### **1.6. Banner Image**
 
 An image displayed at the top of the Bundle builder to visually enhance its appeal.
 
@@ -72,11 +74,21 @@ Sub-conditions add extra rules to decide who can see and get your offers. Theref
 
 ## 3. Bundle structure
 
-<figure><img src="../../../.gitbook/assets/Max quantity.jpg" alt=""><figcaption></figcaption></figure>
+![](<../../../.gitbook/assets/unknown (489).png>)
 
-### **3.1. Step title**
+### **3.1. Step label**&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (269).png" alt="" width="563"><figcaption></figcaption></figure>
+A short label shown on the step progress bar at the top of the Bundle builder (e.g., "Cleanser", "Serum", "Choose your board").
+
+![](<../../../.gitbook/assets/unknown (490).png>)
+
+* For new bundles, Step 1, Step 2... are pre-filled automatically.
+* Leave empty to use the Step title set in Customize instead.
+* If two steps share the same Step label, both will display the same text (no auto-numbering).
+
+### **3.2. Step title**
+
+<img src="../../../.gitbook/assets/unknown (491).png" alt="" height="417" width="624">
 
 This is the title for the current step in the bundle creation process, visible to customers; use it to clearly indicate the purpose of the step (e.g., "Step 1: Choose Your Main Items").
 
@@ -86,7 +98,7 @@ Note: To edit the "Step" label text on the Bundle builder progress bar, please v
 
 ### **3.2. Step sub-title (optional)**
 
-<figure><img src="../../../.gitbook/assets/image (260).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (498).png" alt=""><figcaption></figcaption></figure>
 
 A brief description or instruction for the step, displayed beneath the step title, guiding customers (e.g., "Choose two items from the products listed below").
 
@@ -99,7 +111,7 @@ Allows you to choose a predefined product list or collection for this step by se
 
 ### 3.4. Advanced settings
 
-<figure><img src="../../../.gitbook/assets/unknown (39).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (500).png" alt=""><figcaption></figcaption></figure>
 
 * **Search bar:** Enable this to display a search bar on the Bundle builder, allowing customers to quickly find products by name.
 * **Sort by:** Choose the sorting options customers can use from Name, Date, Price, and Best Selling. The data is synced with your product information.
@@ -108,14 +120,21 @@ Allows you to choose a predefined product list or collection for this step by se
 If you wanna choose "Best Selling" as the sort option, it's best to select only one collection in “Select a list of products” to ensure everything works smoothly.
 {% endhint %}
 
-<figure><img src="../../../.gitbook/assets/unknown (38).png" alt=""><figcaption></figcaption></figure>
-
 * **Filter by**: Add this option to let customers filter products more easily based on: Category, Collection, Product tag, Product type, or Price range.&#x20;
-
-<figure><img src="../../../.gitbook/assets/image (353).png" alt="" width="476"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Filter label** is the title of the filter option that customers will see on your storefront. Use simple words to make it clear.&#x20;
+{% endhint %}
+
+* Tab filter: Adds a row of quick filter tabs above the product list for faster browsing.&#x20;
+
+{% hint style="warning" %}
+On Tab filter:
+
+* You can add up to 6 tabs per step.
+* An All tab is always shown first and cannot be removed.
+* Tab filter does not support Price range.
+* Deleting the Tab filter row removes all tabs of that step. To bring them back, you'll need to set them up again.
 {% endhint %}
 
 **Some key notes to keep in mind:**
