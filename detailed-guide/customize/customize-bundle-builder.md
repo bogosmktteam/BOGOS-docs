@@ -102,7 +102,7 @@ Search, sort & filter: Customize how the Search bar, Sort, Filter, and Tab filte
   * Combined: All filter types are grouped under a single Filter button.
   * Separated: Each filter type has its own button.
 
-<div><figure><img src="../../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/cus.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/image (511).png" alt=""><figcaption></figcaption></figure></div>
 
 * Show selected filter as tags: Enable to show a row of tags below the filter bar
 
