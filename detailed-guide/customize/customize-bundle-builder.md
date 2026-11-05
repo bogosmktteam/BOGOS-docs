@@ -20,7 +20,7 @@ The Bundle product field is where customers browse products and add them to thei
 
 #### a) Content
 
-![](<../../.gitbook/assets/unknown (434).png>)
+<figure><img src="../../.gitbook/assets/image (502).png" alt=""><figcaption></figcaption></figure>
 
 To set it up, fill in these fields:
 
@@ -45,7 +45,7 @@ To set it up, fill in these fields:
 * Below main image
 * Left of main image
 
-![](<../../.gitbook/assets/unknown (436).png>)
+<figure><img src="../../.gitbook/assets/image (504).png" alt=""><figcaption></figcaption></figure>
 
 * Link to product page label: Enable to show a clickable link in the modal that takes customers to the full product page. When enabled, enter the label text (e.g., "See product's details").
 * Select icon: Choose an icon from the available options, or upload your own to match your brand.
@@ -58,7 +58,7 @@ To set it up, fill in these fields:
 
 #### c) Color
 
-![](<../../.gitbook/assets/unknown (437).png>)
+<figure><img src="../../.gitbook/assets/image (506).png" alt=""><figcaption></figcaption></figure>
 
 BOGOS allows you to customize the colors of all elements with any of the 4 methods below:
 
@@ -98,11 +98,12 @@ Click Save when done.
 
 Search, sort & filter: Customize how the Search bar, Sort, Filter, and Tab filter display on your bundle page.
 
-![](<../../.gitbook/assets/unknown (492).png>)
-
 * Filter display: Choose how filters appear to customers:
   * Combined: All filter types are grouped under a single Filter button.
   * Separated: Each filter type has its own button.
+
+<div><figure><img src="../../.gitbook/assets/image (508).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/cus.png" alt=""><figcaption></figcaption></figure></div>
+
 * Show selected filter as tags: Enable to show a row of tags below the filter bar
 
 ![](<../../.gitbook/assets/unknown (493).png>)
