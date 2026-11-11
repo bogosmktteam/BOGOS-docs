@@ -179,6 +179,20 @@ By default, the product discount can combine with Order and Shipping discounts. 
 
 To stop it from combining, **untick the option** you don't want.
 
+## 7. Customize Product Discount
+
+You can style this Product Discount offer in 2 ways:
+
+* **Global style:** Applies the same style to all Product Discount offers on your store. To customize, please visit our [Customize Product Discount](https://docs.bogos.io/detailed-guide/customize/customize-product-discount) guide.
+* **Custom style for this offer:** A different style that applies only to this offer. Other offers stay unchanged. To set it up:
+
+1. Open the offer setup.
+2. Click Customize this offer.
+3. Select Custom style.
+4. Customize and click Save.
+
+<div><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.29.52.png" alt=""> <figure><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.29.58.png" alt=""><figcaption></figcaption></figure></div>
+
 ### Need Help?
 
 If you need any assistance, feel free to reach out to our customer support team via live chat within our BOGOS app.

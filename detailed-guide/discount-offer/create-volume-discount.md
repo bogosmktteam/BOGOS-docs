@@ -288,9 +288,17 @@ This option lets you enhance your volume discounts by pairing them with existing
 
 ### 8. Customize Volume discount
 
-Refer to [this doc](create-volume-discount.md#id-5.-customize-volume-discount) to learn the detailed guide on **Customize Volume discount**
+You can style this Volume Discount offer in 2 ways:
 
-## FAQs
+* **Global style:** Applies the same style to all Volume Discount offers on your store. To customize, please visit our [Customize Volume Discount](https://docs.bogos.io/detailed-guide/customize/customize-volume-discount) guide.
+* **Custom style for this offer:** A different style that applies only to this offer. Other offers stay unchanged. To set it up:
+
+1. Open the offer setup.
+2. Click Customize this offer.
+3. Select Custom style.
+4. Customize and click Save.
+
+<div><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.23.01.png" alt=""> <figure><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.23.04.png" alt=""><figcaption></figcaption></figure></div>
 
 <details>
 

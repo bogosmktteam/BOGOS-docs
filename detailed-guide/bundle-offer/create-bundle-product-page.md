@@ -12,166 +12,132 @@ Customers must **bundle the exact quantity you set to get the matching discount*
 
 {% embed url="https://youtu.be/81HJcRiLcEs?si=uxxGZgDqx0CjtAt0" %}
 
-**Setting up a Bundle Product Page includes 8 steps:**
+**Setting up a Bundle Product Page includes 7 steps:**
 
 1. Open BOGOS app > Create offer > Bundle > Bundle product page
-2. [Fill in bundle information](create-bundle-product-page.md#fill-in-bundle-information)
-3. [Set up the pack](create-bundle-product-page.md#set-up-the-pack)
-4. [Set up the section](create-bundle-product-page.md#set-up-the-section)
-5. [Display the bundle](create-bundle-product-page.md#display-the-bundle)
-6. [Preview your setup](create-bundle-product-page.md#preview-your-setup) & make changes
-7. Publish
-8. [Edit product details](create-bundle-product-page.md#edit-product-details)
+2. [Fill in bundle information](create-bundle-product-page.md#id-1.-fill-in-bundle-information)
+3. [Set up the bundle sizes](create-bundle-product-page.md#id-2.-set-up-the-bundle-sizes)
+4. [Set up the bundle product list](create-bundle-product-page.md#id-3.-set-up-the-bundle-product-list)
+5. [Preview your setup & make changes](create-bundle-product-page.md#id-4.-preview-your-setup)
+6. [Customize the display (optional)](create-bundle-product-page.md#id-5.-customize-bundle-product-page)
+7. Click Publish, then [edit product details](create-bundle-product-page.md#id-6.-edit-product-details) if needed
 
-## Fill in Bundle Information
+### 1. Fill in Bundle Information
 
-Fill in the following fields:
+![](<../../.gitbook/assets/Pasted image 2026-11-11 10.35.01.png>)
 
-![](<../../.gitbook/assets/unknown (294).png>)
+To set it up, fill in these fields:
 
-* **Bundle name**: Used only to help you easily manage & distinguish from other offers in the BOGOS app.&#x20;
-* **Product name**: The name displayed on the bundle product page that customers see.
+* **Bundle name:** For internal use only, helping you easily manage and distinguish from other offers in the BOGOS app.
+* **Product name:** The name displayed on the bundle product page that customers see.
 * **Start time / End time:** Choose when the offer starts and ends.
 
-## Set Up the Bundle Sizes
+### 2. Set up the Bundle Sizes
 
-A pack defines the number of products customers need to add to receive a discount.&#x20;
+A size defines the number of products customers need to add to receive a discount. You can add multiple sizes to offer tiered quantity-based discounts.
 
-**Add multiple pack sizes** to offer tiered quantity-based discounts.
+![](<../../.gitbook/assets/Pasted image 2026-11-11 10.35.03.png>)
 
-### a) Add a Pack Size
+#### 2.1. Add a Size
 
-Click **Add pack size** to add a new pack.&#x20;
+Click Add pack size to add a new size. Then, fill in the following fields:
 
-{% hint style="warning" %}
-Customers must **bundle the exact quantity to receive the pack’s discount**. If you set 2-item and 4-item packs, a 3-item bundle will NOT receive a discount and will NOT be added to your store’s cart.
-{% endhint %}
-
-Then, fill in the following fields:
-
-![](<../../.gitbook/assets/unknown (295).png>)
-
-* **Quantity**: The number of items a customer must add to qualify for the discount.
-* **Discount type**: Select one among Percentage, Fixed amount, Fixed price.
-* **Discount value**: Enter the discount amount if customers qualify for this pack.&#x20;
+* Quantity
+* Discount type: Select one among Percentage, Fixed amount, Fixed price.
+* Discount value
 
 {% hint style="info" %}
 For Fixed amount and Fixed price, you can click Add currency to set custom discount amounts for each Shopify market.
 {% endhint %}
 
-* **Size label**: The text that shows how many items customers must buy.
-* **Discount label**: The text that shows the discount alongside the pack.
-* **Add image** (optional): Upload an image to represent this pack size.
-* **Add badge** (optional): Add a text or image badge to highlight this pack size.
+Display on page:
 
-![](<../../.gitbook/assets/unknown (296).png>)
+* **Size label:** The text that shows how many items customers must buy.
+* **Discount label:** The text that shows the discount alongside the size.
+* **Image (optional):** Tick the Image checkbox, then click Add image to upload an image for this size.
+* **Badge (optional):** Tick the Badge checkbox, then choose:
+  * **Text badge:** Enter custom text to display as the badge.
+  * **Image badge:** Upload an image to display as the badge.
 
-### b) Add an Unlimited Pack
+![](<../../.gitbook/assets/Pasted image 2026-11-11 10.35.09.png>)
 
-Click **Add unlimited pack** if you want the discount to continue after customers exceed the last defined pack size.
+#### 2.2. Add an Unlimited Size
 
-Example:&#x20;
+Click Add unlimited pack if you want the discount to continue after customers exceed the last defined size.
 
-* Pack 1 = bundle 2 items
-* Pack 2 = bundle 4 items
-* Unlimited Pack = bundle more than 4 items, such as 5 or 6.
+Example:
 
-![](<../../.gitbook/assets/unknown (297).png>)
+* Size 1 = bundle 2 items
+* Size 2 = bundle 3 items
+* Unlimited size = bundle more than 3 items, such as 4 or 5.
 
-### c) Customize the Pack
+![](<../../.gitbook/assets/Pasted image 2026-11-11 10.35.12.png>)
 
-Click **Customize** to open the full-screen editor and adjust your pack display on the storefront.
+Set up the Unlimited size with the same fields as a regular size (Discount type, Discount value, Size label, Discount label, Image, Badge).
 
-{% hint style="info" %}
-This customization only applies to this bundle product page. Other bundle product pages will not be affected.&#x20;
-{% endhint %}
+### 3. Set up the Bundle Product List
 
-![](<../../.gitbook/assets/unknown (298).png>)
+You can display all products in one step or divide them into multiple steps to guide customers through the selection.
 
-For more details, please visit \[[Customize the Pack](../customize/customize-bundle-product-page.md#customize-the-pack-pack-select-field)].
+![](<../../.gitbook/assets/Pasted image 2026-11-11 10.35.17.png>)
 
-## Set Up the Section
+#### 3.1. Add a Step
 
-A section defines the products customers can choose from to build their bundle.
+Click Add section to add a new step. Then, follow these guides to build a step:
 
-You can display all products in one step or divide them into multiple steps to guide customers through the selection, such as completing a routine.
+1. **Fill in Step title:** The name shown for this selection step on the bundle product page.
+2. Choose Display type:
 
-### a) Add a Step
+* **Product:** Shows each product with multiple variants as one item. Customers select variants from a drop-down.
+* **Variant:** If a product has multiple variants, it shows each variant as a separate item for selection.
 
-Click **+ Add step** to add a new step. Then, follow these guides to build a step:
+3. Click Select products to choose which products are available in this step.
 
-<img src="../../.gitbook/assets/unknown (299).png" alt="" height="380" width="483">
+#### 3.2. Advanced Settings
 
-1. Fill in **Step title**: The name shown for this selection step on the bundle product page.
-2. Choose **Display type**:
+Open Advanced settings to set a minimum or maximum quantity a customer can select from this step.
 
-* **By Product**: Shows each product with multiple variants as one item. Customers select variants from a drop-down.
-* **By Variant**: If a product has multiple variants, it shows each variant as a separate item for selection.
+![](<../../.gitbook/assets/Pasted image 2026-11-11 10.35.23.png>)
 
-3. Click **Select products** to choose which products are available in this step.
-4. Open **Advanced settings** to set a minimum or maximum quantity a customer can select from this step.
+### 4. Preview Your Setup
 
-### b) Customize the Section
+Once all required information is filled in, use the preview on the right side of the setup page to see how the bundle product page will look. Switch between mobile and desktop views to check the display across devices.
 
-Click **Customize** to open the full-screen editor and adjust the appearance of the product list on the storefront.
+You can also adjust the display again if needed before saving.
 
-{% hint style="info" %}
-This customization applies to each bundle product page offer. Other bundle product pages will not be affected.&#x20;
-{% endhint %}
+![](<../../.gitbook/assets/Pasted image 2026-11-11 10.35.28.png>)
 
-![](<../../.gitbook/assets/unknown (300).png>)
+### 5. Customize Bundle Product Page
 
-For more details, please visit \[[Customize the Section](../customize/customize-bundle-product-page.md#customize-the-section)].
+You can style this Bundle Product Page offer in 2 ways:
 
-## Display the Bundle
+* Global style: Applies the same style to all Bundle Product Page offers on your store. To customize, please visit our [Customize Bundle Product Page](https://docs.bogos.io/detailed-guide/customize/customize-bundle-product-page) guide.
+* Custom style for this offer: A different style that applies only to this offer. Other offers stay unchanged. To set it up:
 
-The **Display the bundle** panel on the right side of the setup page provides two options to control how the bundle appears across your store.
+1. Open the offer setup.
+2. Click Customize this offer.
+3. Select Custom style.
+4. Customize and click Save.
 
-![](<../../.gitbook/assets/unknown (301).png>)
+<div><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.35.33.png" alt=""> <figure><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.35.39.png" alt=""><figcaption></figcaption></figure></div>
 
-### a) Customize the Page (Global Customize)
-
-This customization will be applied to all bundle product pages on your store.
-
-Click **Global customize** to open the customize editor. Then, customize all options available:
-
-<img src="../../.gitbook/assets/unknown (302).png" alt="" height="308" width="624">
-
-For more details, please visit \[[Global Customize](../customize/customize-bundle-product-page.md#global-customize)].
-
-### b) Widget on Child Product Page
-
-Enable **Add widget on child products' page** to show a widget on the individual product pages of all items involved in this bundle. This widget lets customers navigate directly to the bundle product page.
-
-To adjust the widget's display, click **Widget customize**.
-
-<img src="../../.gitbook/assets/unknown (303).png" alt="" height="309" width="624">
-
-For more details, please visit \[[Customize Widget on Child Product Page](../customize/customize-bundle-product-page.md#widget-on-child-product-page)].
-
-## Preview Your Setup
-
-Once all required information is filled in, click Preview page to open the full-screen editor. Here, you can **preview** the bundle product page and **adjust the display** again if needed before saving.
-
-![](<../../.gitbook/assets/unknown (304).png>)
-
-## Edit Product Details
+### 6. Edit Product Details
 
 After publishing the bundle product page:
 
-1. Go back to its setup screen
-2. Click **Edit detail** to open the product editor.
+1. Go back to its setup screen.
+2. Click Edit detail to open the product editor.
 
-![](<../../.gitbook/assets/unknown (305).png>)
+![](<../../.gitbook/assets/Pasted image 2026-11-11 10.35.44.png>)
 
-3. **Update the product details** shown on your store, such as the product title, description, and image.
+Update the product details shown on your store, such as the product title, description, and image.
 
 {% hint style="info" %}
 Do not set up the inventory or add variants. These settings will change how the bundle product page looks and confuse customers.
 {% endhint %}
 
-![](<../../.gitbook/assets/unknown (306).png>)
+![](<../../.gitbook/assets/Pasted image 2026-11-11 10.35.50.png>)
 
-## Need Help?
+### Need Help?
 
 If you need any assistance, feel free to reach out to our customer support team via live chat within the BOGOS app.

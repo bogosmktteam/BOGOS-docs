@@ -82,8 +82,6 @@ If an offer expires while a customer is still in the checkout process, the disco
 
 ### 2. Offers&#x20;
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdKhIcXfKM6FgLqG_FM5eDjVV4ExOxJ8pfJpuaUiIkC-8woNlvt8ogZYZ7-4s9_IeDXvWw_O7RmInYGXs5ISBQJKy0plTUaDO14mGHoJ5a2yQdFbrQwu8tV0MkZS9A6y6QVhE85eA?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
-
 This section lets you choose which products the offer applies to:
 
 * **Any products:** Applies to all products in your store.
@@ -128,8 +126,6 @@ When Subscription products is set, only matching products appear in the widget's
 
 ### 4. Tiers
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeJuXCBuSq1hInWb63o-YQ9WX1nVnhM49_ryLojenY6sU6rLBgIverKQtaZ6GKo7Q8JwY4PhVFD_3csBQZSStpNZK5yp6XTTjsEHc4JWSl5g18wNxL9y7P5SdGqEXI-1m2WVwRrAw?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
-
 This section controls how the discount is applied based on the number of items a customer buys.
 
 **Discount on:** Choose whether the discount applies to the cheapest item or the most expensive item in the cart.
@@ -154,11 +150,7 @@ This section controls how the discount is applied based on the number of items a
 Within an offer, only the tier with the highest quantity can be applied with **multiply** function. Our system will automatically detect and apply this tier, even if it is not the last one.&#x20;
 {% endhint %}
 
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdOJshF0z0Q2dHzsAsMVrSNkBs6xKn4kkRHdKAl0ZL0tUA930ugDW7WZaXpVbeYAVLZsG2nAR6ptDEF4zwjw-MjtufpAU97JDv-VqtRerxaP-oWtp7eBVrlxM_yXg6R8yRsROn7GA?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
-
 ### 5. Discount code&#x20;
-
-<figure><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFNBqJ54z9rZ1ZNeW1V9w6QGDsTqFffyYbv7RJxaLs8CTcc7mpYsdXe4jELh4It1X7w6H0uAAMpqbiQpcW42rdvN3dJ0CG0MjOryAhlFTFyUAxpkuI4Uh3PRW5De8i3BljDuCj?key=APwpMqxaYlxpG4ng8MqyiA" alt=""><figcaption></figcaption></figure>
 
 * **Add a discount code:** Create a custom code name that matches your brand.
 
@@ -167,6 +159,20 @@ In case you left unchecked, BOGOS will automatically apply its default discount 
 {% endhint %}
 
 * **Combination with other discounts:** By default, BOGOS discount offers work with other discounts,including Order discounts and Shipping discounts. Untick one of these checkbox to disable the combination with that type of discount.
+
+### 6. Customize Discount on Cheapest/Most Expensive Item
+
+You can style this Discount on Cheapest/Most Expensive Item offer in 2 ways:
+
+* **Global style:** Applies the same style to all Discount on Cheapest/Most Expensive Item offers on your store. To customize, please visit our [Customize Discount on Cheapest/Most Expensive Item](https://docs.bogos.io/detailed-guide/customize/customize-discount-on-cheapest-most-expensive-item) guide.
+* **Custom style for this offer:** A different style that applies only to this offer. Other offers stay unchanged. To set it up:
+
+1. Open the offer setup.
+2. Click Customize this offer.
+3. Select Custom style.
+4. Customize and click Save.
+
+<div><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.24.08.png" alt=""> <figure><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.24.14.png" alt=""><figcaption></figcaption></figure></div>
 
 ## FAQs
 

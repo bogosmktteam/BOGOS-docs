@@ -116,7 +116,7 @@ Select how each item in the bundle is counted.
 
 There are two separate options for you to set up your promotion campaigns.
 
-<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (515).png" alt=""><figcaption></figcaption></figure>
 
 **4 discount types**
 
@@ -127,7 +127,7 @@ There are two separate options for you to set up your promotion campaigns.
 
 **Shipping discount**
 
-<figure><img src="../../.gitbook/assets/unknown (111).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (517).png" alt=""><figcaption></figcaption></figure>
 
 There are 2 types of shipping discount:
 
@@ -194,7 +194,7 @@ Due to Shopify rules, a bundle product can’t exceed 30 bundled products, 3 opt
 
 This section allows you to customize the discount code name to match your brand.
 
-<figure><img src="../../.gitbook/assets/image (321).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (513).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" icon="triangle-exclamation" %}
 The discount code name must be under 256 characters and unique across all Shopify discounts.
@@ -206,6 +206,20 @@ By default, BOGOS bundles work with any other discounts. Untick each checkbox to
 
 * Order discounts: discount on order level
 * Shipping discount
+
+### 8. Customize Classic Bundle
+
+You can style this Classic Bundle offer in 2 ways:
+
+* Global style: Applies the same style to all Classic Bundle offers on your store. To customize, please visit our [Customize Classic Bundle](https://docs.bogos.io/detailed-guide/customize/customize-classic-bundle) guide.
+* Custom style for this offer: A different style that applies only to this offer. Other offers stay unchanged. To set it up:
+
+1. Open the offer setup.
+2. Click Customize this offer.
+3. Select Custom style.
+4. Customize and click Save.
+
+<div><img src="../../.gitbook/assets/Pasted image 2026-11-11 09.52.39.png" alt=""> <figure><img src="../../.gitbook/assets/Pasted image 2026-11-11 09.52.45.png" alt=""><figcaption></figcaption></figure></div>
 
 ### FAQs
 

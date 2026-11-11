@@ -180,13 +180,27 @@ By default, BOGOS bundles work with any other discounts, such as order discounts
 
 #### Add a custom discount code
 
-This section allows you to customize the discount code name to match your brand.<br>
+This section allows you to customize the discount code name to match your brand.
 
 <figure><img src="../../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 The discount code name must be under 256 characters and unique across all Shopify discounts
 {% endhint %}
+
+## 9. Customize Mix and Match
+
+You can style this Mix and Match offer in 2 ways:
+
+* **Global style:** Applies the same style to all Mix and Match offers on your store. To customize, please visit our [Customize Mix and Match](https://docs.bogos.io/detailed-guide/customize/customize-mix-and-match) guide.
+* **Custom style for this offer:** A different style that applies only to this offer. Other offers stay unchanged. To set it up:
+
+1. Open the offer setup.
+2. Click Customize this offer.
+3. Select Custom style.
+4. Customize and click Save.
+
+<div><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.03.19.png" alt=""> <figure><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.03.24.png" alt=""><figcaption></figcaption></figure></div>
 
 ## FAQs
 

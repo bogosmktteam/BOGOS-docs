@@ -251,7 +251,20 @@ By default, BOGOS Cart Discount will work with any other discounts. To prevent c
 Combination settings follow Shopify's discount rules. Make sure the discounts you want to combine are also configured to allow combination on their end.
 {% endhint %}
 
+### 8. Customize Cart Discount
+
+You can style this Discount on Cheapest/Most Expensive Item offer in 2 ways:
+
+* **Global style:** Applies the same style to all Cart Discount offers on your store. To customize, please visit our [Customize Cart Discount](https://docs.bogos.io/detailed-guide/customize/customize-cart-discount) guide.
+* **Custom style for this offer:** A different style that applies only to this offer. Other offers stay unchanged. To set it up:
+
+1. Open the offer setup.
+2. Click Customize this offer.
+3. Select Custom style.
+4. Customize and click Save.
+
+<div><figure><img src="../../.gitbook/assets/image (522).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.26.58.png" alt=""><figcaption></figcaption></figure></div>
+
 ### Need Help?
 
 If you need any assistance, feel free to reach out to our customer support team via **live chat** within our BOGOS app.
-

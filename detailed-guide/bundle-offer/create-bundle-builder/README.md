@@ -255,9 +255,29 @@ Indicates if the bundle discount can be combined with shipping discounts, such a
 
 ## 7. Bundle builder summary
 
-<div align="left"><figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure></div>
 
 The Bundle builder **Summary** panel on the right updates dynamically as you configure your steps. It displays the number of steps, selected products, and added discounts for easy tracking.
+
+### 8. Customize Bundle Builder
+
+You can style this Bundle Builder offer in 2 ways:
+
+* Global style: Applies the same style to all Bundle Builder offers on your store. To customize, please visit our [Customize Bundle Builder](https://docs.bogos.io/detailed-guide/customize/customize-bundle-builder) guide.
+* Custom style for this offer: A different style that applies only to this offer. Other offers stay unchanged. To set it up:
+
+1. Open the offer setup.
+2. Click Customize this offer.
+3. Select Custom style.
+4. Customize and click Save.
+
+<div><img src="../../../.gitbook/assets/Pasted image 2026-11-11 10.04.53.png" alt=""> <figure><img src="../../../.gitbook/assets/image (519).png" alt=""><figcaption></figcaption></figure></div>
+
+{% hint style="warning" %}
+Under **Page element**, click a section to customize it: **Product field**, **Bundle summary**, **Product quick view modal**, or **Included product widget**. You can also click a section directly in the preview.
+
+![](<../../../.gitbook/assets/image (521).png>)
+{% endhint %}
 
 ## FAQs
 
