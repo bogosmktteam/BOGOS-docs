@@ -259,7 +259,7 @@ Indicates if the bundle discount can be combined with shipping discounts, such a
 
 The Bundle builder **Summary** panel on the right updates dynamically as you configure your steps. It displays the number of steps, selected products, and added discounts for easy tracking.
 
-### 8. Customize Bundle Builder
+## 8. Customize Bundle Builder
 
 You can style this Bundle Builder offer in 2 ways:
 
