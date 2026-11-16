@@ -1,45 +1,52 @@
 # Display Bundle builder
 
-There are two ways to display the Bundle builder on your online store.&#x20;
+There are two ways to display the Bundle builder on your online store:
 
-1. Add a button on the related product pages.
-2. Add bundle to your store's navigation.
+1. Add a redirect button on product pages.
+2. Add the bundle to your store’s navigation.
 
-## 1. Add a button on related product pages
+## 1. Add a redirect button on product pages
 
-In the Create/Edit Bundle builder, check on "Show a button on product page"
+**To set it up, please follow these steps:**
 
-<figure><img src="../../../.gitbook/assets/image (261).png" alt=""><figcaption></figcaption></figure>
+1. In **Edit bundle builder**, click **Customize this offer**.
 
-After checking on this field and Save changes, the button on your product in bundle will appear on its product page.&#x20;
+<figure><img src="../../../.gitbook/assets/image (525).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (262).png" alt=""><figcaption></figcaption></figure>
+2. Under **Page element**, select **Included product widget**.
+3. Tick **Show a redirect button**.
+4. (Optional) Customize the **Button background** and **Button text** colors.
 
-## 2. Add bundle to your store's navigation&#x20;
+<figure><img src="../../../.gitbook/assets/image (527).png" alt=""><figcaption></figcaption></figure>
 
-### 2.1. Copy your bundle's link
+5. Click **Save**.
 
-Copy your bundle's link in Edit Bundle builder.&#x20;
+The redirect button will then appear on the product pages of items included in the bundle.
 
-<figure><img src="../../../.gitbook/assets/image (263).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (529).png" alt=""><figcaption></figcaption></figure>
 
-### 2.2. Go to your store Content > Menus
+## 2. Add bundle to your store’s navigation
 
-<figure><img src="../../../.gitbook/assets/image (264).png" alt=""><figcaption></figcaption></figure>
+### 2.1. Copy your bundle’s link
 
-Go to Main menu
+Make sure to **Save** your bundle first. Then go to **All offers**, reopen the bundle to enter **Edit bundle builder**, and click **Copy link** next to **Link to bundle builder**.
 
-<figure><img src="../../../.gitbook/assets/image (265).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (530).png" alt=""><figcaption></figcaption></figure>
 
-Add menu item
+### 2.2. Add the link to your store’s navigation
 
-<figure><img src="../../../.gitbook/assets/image (266).png" alt=""><figcaption></figcaption></figure>
+1. In Shopify admin, go to **Content > Menus**.
+2. Open **Main menu**.
 
-Insert Label and copied bundle link and Save
+<figure><img src="../../../.gitbook/assets/image (532).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (267).png" alt=""><figcaption></figcaption></figure>
+3. Click **Add menu item**.
+4. Enter a **Label** (e.g., “Build Your Own Bundle”) and paste the copied link into **Link**.
 
-### 3. Check it on your Online store
+<figure><img src="../../../.gitbook/assets/image (535).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/image (268).png" alt=""><figcaption></figcaption></figure>
+5. Click **Save**.
 
+## 2.3. Check it on your online store.
+
+<figure><img src="../../../.gitbook/assets/image (536).png" alt=""><figcaption></figcaption></figure>
