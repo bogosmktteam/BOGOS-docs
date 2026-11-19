@@ -91,6 +91,7 @@
 ## Integration
 
 * [Integration Partner list](integration/integration-partner-list.md)
+* [Top Cart Drawer Apps](integration/top-cart-drawer-apps.md)
 * [Page Builder apps](integration/page-builder-apps/README.md)
   * [PageFly](integration/page-builder-apps/pagefly.md)
   * [GemPages](integration/page-builder-apps/gempages.md)
@@ -104,7 +105,6 @@
   * [Transcy](integration/translation-apps/transcy.md)
   * [Weglot](integration/translation-apps/weglot.md)
   * [Langify](integration/translation-apps/langify.md)
-* [Cart Drawer apps](integration/cart-drawer-apps.md)
 * [Labels & Badges apps](integration/labels-and-badges-apps/README.md)
   * [DECO](integration/labels-and-badges-apps/deco.md)
 * [Themes](integration/themes.md)

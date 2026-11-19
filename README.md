@@ -20,6 +20,10 @@ description: >-
 [launch-your-first-offer.md](quick-start-guide/launch-your-first-offer.md)
 {% endcontent-ref %}
 
+{% content-ref url="integration/top-cart-drawer-apps.md" %}
+[top-cart-drawer-apps.md](integration/top-cart-drawer-apps.md)
+{% endcontent-ref %}
+
 ## Our help topics
 
 <table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>About BOGOS App</strong></td><td>What BOGOS does and how it boosts your sales</td><td><a href="https://app.gitbook.com/s/BQEzvXIQmpPrTmxjT8T6/about-bogos-app">ABOUT BOGOS APP</a></td><td><a href=".gitbook/assets/About BOGOS App (1).png">About BOGOS App (1).png</a></td></tr><tr><td><strong>Quick Start Guide</strong></td><td>How to get started with BOGOS app</td><td><a href="https://app.gitbook.com/s/BQEzvXIQmpPrTmxjT8T6/quick-start-guide">Quick Start Guide</a></td><td><a href=".gitbook/assets/Quick Start Guide.png">Quick Start Guide.png</a></td></tr><tr><td><strong>Detailed Guide</strong></td><td>How to use BOGOS to its full potential</td><td><a href="https://app.gitbook.com/s/BQEzvXIQmpPrTmxjT8T6/detailed-guide">DETAILED GUIDE</a></td><td><a href=".gitbook/assets/Detailed Guide.png">Detailed Guide.png</a></td></tr><tr><td><strong>Advanced Customization</strong></td><td>Access special and advanced setup</td><td><a href="https://app.gitbook.com/s/BQEzvXIQmpPrTmxjT8T6/advanced-customization">Advanced customization</a></td><td><a href=".gitbook/assets/Advanced Customization.png">Advanced Customization.png</a></td></tr><tr><td><strong>Integration</strong></td><td>Connect BOGOS with other Shopify 3-rd party apps</td><td><a href="https://app.gitbook.com/s/BQEzvXIQmpPrTmxjT8T6/integration">Integration</a></td><td><a href=".gitbook/assets/Integration.png">Integration.png</a></td></tr><tr><td><strong>FAQs</strong></td><td>Find quick answers to common questions</td><td><a href="https://app.gitbook.com/s/BQEzvXIQmpPrTmxjT8T6/faqs">FAQs</a></td><td><a href=".gitbook/assets/faqs (2).png">faqs (2).png</a></td></tr></tbody></table>

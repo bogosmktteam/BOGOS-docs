@@ -35,7 +35,7 @@ Merchants don’t need to edit theme code to get working gift flows—integratio
 
 Because the theme controls responsive behavior, BOGOS gift interactions (drawer behavior, messages, remove controls) remain consistent on desktop and mobile, reducing confusion and cart friction.
 
-### Integrated Labels & Badges apps
+### Integrated Theme Lists
 
 * [Sleek Theme](https://themes.shopify.com/themes/sleek/presets/sleek?utm_source=BOGOS\&utm_medium=InappBanner\&utm_campaign=partnership)
 * [Zest – Shopify Theme](https://themes.shopify.com/themes/zest/styles/gusto?utm_source=BOGOS\&utm_medium=inapp\&utm_campaign=partnership)

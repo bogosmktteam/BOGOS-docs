@@ -1,4 +1,4 @@
-# Cart Drawer apps
+# Top Cart Drawer Apps
 
 ### What each tool does
 
@@ -24,6 +24,7 @@ Even when actions happen inside the drawer, BOGOS still enforces promotion rules
 
 ### Integrated Cart Drawer Apps
 
+* ⭐ [Accelio Slide Cart Drawer](https://apps.shopify.com/accelio-cart-drawer?utm_source=BOGOS\&utm_medium=Help_Doc\&utm_campaign=Integration) (BOGOS offers run the most smoothly with Accelio. You can also embed gift popup, today's offer widget, progress bar, etc into Accelio)
 * [iCart – Cart Drawer & Cart Upsell](https://apps.shopify.com/icart/?campaign=promotion\&medium=in-app-banner\&source=bogos)
 * [qikify – Sticky Add to Cart](https://apps.shopify.com/sticky-cart-by-qikify?utm_medium=referral\&utm_source=bogo\&utm_content=in-app)
 

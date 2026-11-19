@@ -22,7 +22,7 @@ Customers can select subscription products directly within BOGOS volume discount
 
 Whether a customer chooses one-time purchase or subscription, the correct discount logic and recurring order setup flow smoothly to checkout.
 
-### Integrated Labels & Badges apps
+### Integrated Subscription Apps
 
 [Appstle - Subscription Apps](https://apps.shopify.com/subscriptions-by-appstle?utm_source=Partner\&utm_medium=BOGOS\&utm_campaign=Integration)
 

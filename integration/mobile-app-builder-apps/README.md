@@ -22,7 +22,7 @@ Run and update gift campaigns in BOGOS, and they’ll sync automatically to your
 
 When a customer makes a purchase through the mobile app and receives a gift, the store’s inventory is instantly updated.
 
-### Integrated Labels & Badges apps
+### Integrated Mobile App Builder apps
 
 [OneMobile – Mobile App Builder](https://apps.shopify.com/onemobile?utm_source=bogos\&utm_medium=partnership\&utm_campaign=integration250218)
 
