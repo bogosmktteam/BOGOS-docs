@@ -8,7 +8,7 @@ description: Overview of creating a volume discount with BOGOS
 
 To get started, navigate to **All offers** in the your **BOGOS Navigation** -> click **Create offer** -> choose **Discount offer** -> **Volume discount.**
 
-{% embed url="https://youtu.be/E72ZySxY8AI" %}
+{% embed url="https://youtu.be/OBPCGVaLm0Q?si=Qr4P-3LI6vjS4QNg" %}
 
 ### 1. Volume Discount information
 
