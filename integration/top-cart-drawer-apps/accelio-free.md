@@ -1,7 +1,7 @@
 ---
 description: >-
   Learn how to use the free Accelio cart drawer with BOGOS, so your gifts,
-  bundles, and discounts show up smoothly in your cart.
+  bundles, upsells, and discounts show up smoothly in your cart.
 ---
 
 # ⭐ Accelio (Free)
@@ -14,7 +14,7 @@ Want a cart that looks great and makes your BOGOS offers shine? Meet <a href="ht
 
 Why we love it:
 
-* **Free.** You don't have to pay for
+* **Free.** You don't have to pay anything for Accelio.
 * **Smooth and always in sync.** It works the most smoothly with any BOGOS offer and keeps up with every BOGOS update.
 * **Beautiful and customizable.** A well-designed slide cart drawer you can change to match your store.
 * **Instant updates.** When BOGOS adds a gift, or a shopper adds or removes one in the gift slider, the drawer updates right away. No page reload.
