@@ -388,6 +388,8 @@ Then choose to **combine the offer** with Order discounts or Shipping discounts
 
 ### FAQs
 
+{% include "../../.gitbook/includes/accelio.md" %}
+
 <details>
 
 <summary><strong>How to allow customers to choose their gift?</strong></summary>
@@ -541,5 +543,3 @@ Pro-Tip: If you prefer a simpler setup, you can switch your app mechanism to **G
 {% endhint %}
 
 </details>
-
-{% include "../../.gitbook/includes/accelio.md" %}

@@ -223,6 +223,8 @@ You can style this Classic Bundle offer in 2 ways:
 
 ### FAQs
 
+{% include "../../.gitbook/includes/accelio.md" %}
+
 <details>
 
 <summary><strong>How does the bundle as a product (created using “Create a product for this bundle” in Classic Bundle) track the inventory?</strong></summary>
@@ -284,3 +286,4 @@ Step 2: In product information, add Classic bundle block from BOGOS
 Step 3: Click the Save button
 
 </details>
+
