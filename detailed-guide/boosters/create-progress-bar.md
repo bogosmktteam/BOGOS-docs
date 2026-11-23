@@ -190,3 +190,7 @@ If you are using the Horizon theme, you don’t need to do this step. The Progre
 ### Need Help?
 
 If you need any assistance, feel free to reach out to our customer support team via live chat within our BOGOS app.
+
+### FAQs
+
+{% include "../../.gitbook/includes/accelio.md" %}

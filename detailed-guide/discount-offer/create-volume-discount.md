@@ -300,6 +300,10 @@ You can style this Volume Discount offer in 2 ways:
 
 <div><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.23.01.png" alt=""> <figure><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.23.04.png" alt=""><figcaption></figcaption></figure></div>
 
+### FAQ
+
+{% include "../../.gitbook/includes/accelio.md" %}
+
 <details>
 
 <summary><strong>Is it possible to set up a discount when purchasing exactly 3 products?</strong></summary>

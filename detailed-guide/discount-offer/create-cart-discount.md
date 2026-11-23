@@ -268,3 +268,7 @@ You can style this Discount on Cheapest/Most Expensive Item offer in 2 ways:
 ### Need Help?
 
 If you need any assistance, feel free to reach out to our customer support team via **live chat** within our BOGOS app.
+
+### FAQs
+
+{% include "../../.gitbook/includes/accelio.md" %}

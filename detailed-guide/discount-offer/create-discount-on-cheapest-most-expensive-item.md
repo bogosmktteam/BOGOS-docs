@@ -176,6 +176,8 @@ You can style this Discount on Cheapest/Most Expensive Item offer in 2 ways:
 
 ## FAQs
 
+{% include "../../.gitbook/includes/accelio.md" %}
+
 <details>
 
 <summary><strong>Can we apply the cheapest discount for customers without them purchasing from the Cheapest discount widget?</strong></summary>

@@ -281,6 +281,8 @@ Under **Page element**, click a section to customize it: **Product field**, **Bu
 
 ## FAQs
 
+{% include "../../../.gitbook/includes/accelio.md" %}
+
 <details>
 
 <summary><strong>Can we not show the out-of-stock products in each step?</strong></summary>

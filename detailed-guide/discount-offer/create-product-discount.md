@@ -193,6 +193,10 @@ You can style this Product Discount offer in 2 ways:
 
 <div><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.29.52.png" alt=""> <figure><img src="../../.gitbook/assets/Pasted image 2026-11-11 10.29.58.png" alt=""><figcaption></figcaption></figure></div>
 
-### Need Help?
+## Need Help?
 
 If you need any assistance, feel free to reach out to our customer support team via live chat within our BOGOS app.
+
+## FAQs
+
+{% include "../../.gitbook/includes/accelio.md" %}

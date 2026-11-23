@@ -204,6 +204,8 @@ You can style this Mix and Match offer in 2 ways:
 
 ## FAQs
 
+{% include "../../.gitbook/includes/accelio.md" %}
+
 <details>
 
 <summary><strong>Can I customize the discount code name for Mix and match bundle?</strong></summary>

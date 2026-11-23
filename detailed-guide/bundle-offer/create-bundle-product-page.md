@@ -141,3 +141,7 @@ Do not set up the inventory or add variants. These settings will change how the 
 ### Need Help?
 
 If you need any assistance, feel free to reach out to our customer support team via live chat within the BOGOS app.
+
+### FAQ
+
+{% include "../../.gitbook/includes/accelio.md" %}

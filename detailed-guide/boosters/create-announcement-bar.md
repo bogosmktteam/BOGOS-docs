@@ -219,3 +219,7 @@ For more details, visit our \[[Adjust BOGOS Blocks](https://docs.bogos.io/quick-
 ## Need Help?
 
 If you need any assistance, feel free to reach out to our customer support team via live chat within our BOGOS app.
+
+## FAQs
+
+{% include "../../.gitbook/includes/accelio.md" %}

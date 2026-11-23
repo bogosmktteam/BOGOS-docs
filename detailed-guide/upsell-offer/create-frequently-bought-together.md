@@ -336,6 +336,8 @@ If you need any assistance, feel free to reach out to our customer support team 
 
 ## FAQs
 
+{% include "../../.gitbook/includes/accelio.md" %}
+
 <details>
 
 <summary><strong>Is it possible to set up “Get Free shipping when buying upsell products”</strong></summary>
