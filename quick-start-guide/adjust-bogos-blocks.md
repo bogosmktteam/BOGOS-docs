@@ -90,6 +90,38 @@ To change the position of a block inside an existing section:
 4. Drag and drop the block to your preferred location.
 5. Click Save.
 
+### Add BOGOS blocks inside a cart drawer app
+
+Besides the Shopify Theme Editor, you can also add BOGOS blocks directly inside supported cart drawer apps. Currently, this works with [Accelio Slide Cart Drawer](https://apps.shopify.com/accelio-cart-drawer?utm_source=BOGOS\&utm_medium=docs), a free, well-designed, and fully customizable cart drawer app that’s best integrated with BOGOS.
+
+![](<../.gitbook/assets/Pasted image 2026-11-23 09.38.20.png>)
+
+Available BOGOS blocks in Accelio include:
+
+* BOGOS Progress Bar
+* BOGOS Today Offer
+* BOGOS Gift Slider
+* BOGOS Cart Upsell
+
+To add a BOGOS block inside Accelio, please follow these steps:
+
+1. Open Accelio Cart Editor.
+2. Under Cart elements, click Add block.
+3. Switch to the Apps tab.
+4. Select the BOGOS block you want.
+
+![](<../.gitbook/assets/Pasted image 2026-11-23 09.38.25.png>)
+
+5. Adjust the block settings on the right panel, including Booster ID / Offer ID, Margin, and Custom CSS.
+6. Click Save.
+
+{% hint style="warning" %}
+* Leave the Booster ID / Offer ID empty to show all eligible BOGOS widgets, or enter a specific ID to display one block.
+* Click Edit in BOGOS to jump back to BOGOS admin and manage the booster or offer.
+{% endhint %}
+
+![](<../.gitbook/assets/Pasted image 2026-11-23 09.38.31.png>)
+
 ### Enter ID (if required)
 
 An offer ID or booster ID is a unique identifier for each offer and booster in BOGOS. It allows you to display the correct block with the ID you enter.
