@@ -42,8 +42,10 @@ Your BOGOS offers will automatically work smoothly in the Accelio drawer from no
 
 ### Need help?
 
-Stuck? No worries, just contact the right team:
+View Accelio's help documentation: [https://accelio.gitbook.io/docs](https://accelio.gitbook.io/docs)
+
+Still stuck? No worries, just contact the right team:
 
 * **Your offers do not work.** Contact BOGOS support by live chat.
 * **Your offers do not work with the cart.** Contact Accelio support.
-*
+
