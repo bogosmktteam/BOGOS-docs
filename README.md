@@ -20,8 +20,8 @@ description: >-
 [launch-your-first-offer.md](quick-start-guide/launch-your-first-offer.md)
 {% endcontent-ref %}
 
-{% content-ref url="integration/top-cart-drawer-apps.md" %}
-[top-cart-drawer-apps.md](integration/top-cart-drawer-apps.md)
+{% content-ref url="integration/top-cart-drawer-apps/" %}
+[top-cart-drawer-apps](integration/top-cart-drawer-apps/)
 {% endcontent-ref %}
 
 ## Our help topics

@@ -91,7 +91,8 @@
 ## Integration
 
 * [Integration Partner list](integration/integration-partner-list.md)
-* [Top Cart Drawer Apps](integration/top-cart-drawer-apps.md)
+* [Top Cart Drawer Apps](integration/top-cart-drawer-apps/README.md)
+  * [⭐ Accelio (Free)](integration/top-cart-drawer-apps/accelio-free.md)
 * [Page Builder apps](integration/page-builder-apps/README.md)
   * [PageFly](integration/page-builder-apps/pagefly.md)
   * [GemPages](integration/page-builder-apps/gempages.md)
