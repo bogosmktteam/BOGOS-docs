@@ -68,3 +68,6 @@ _Example: Spend $100 and get 10% off, spend $200 and get 20% off._
 * Sales channels: Only customers purchasing products from a specific sales channel, such as an online store, mobile app, or point of sale, can be rewarded.
 * Markets: Your gifts are available only to customers from selected markets, synced with Shopify Market's data.
 
+{% hint style="success" %}
+All BOGOS gift offer types (Spend X get gift, BOGO, Buy X get Y, and more) run smoothest in a BOGOS-integrated cart drawer. We recommend [Accelio Slide Cart Drawer](https://apps.shopify.com/accelio-cart-drawer?utm_source=BOGOS\&utm_medium=Help_Doc\&utm_campaign=Gift_Offer), a free, well-designed, and fully customizable.
+{% endhint %}

@@ -122,6 +122,7 @@
 * [2. How to create a Buy one get one (BOGO) offer?](faqs/2.-how-to-create-a-buy-one-get-one-bogo-offer.md)
 * [3. How to calculate the bill?](faqs/3.-how-to-calculate-the-bill.md)
 * [4. What is my BOGOS plan?](faqs/4.-what-is-my-bogos-plan.md)
+* [5. Why don't my BOGOS offers work correctly in my cart drawer?](faqs/5.-why-dont-my-bogos-offers-work-correctly-in-my-cart-drawer.md)
 
 ## 📄 Terms & Conditions
 
