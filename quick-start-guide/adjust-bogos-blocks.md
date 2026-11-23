@@ -92,7 +92,7 @@ To change the position of a block inside an existing section:
 
 ### Add BOGOS blocks inside a cart drawer app
 
-Besides the Shopify Theme Editor, you can also add BOGOS blocks directly inside supported cart drawer apps. Currently, this works with [Accelio Slide Cart Drawer](https://apps.shopify.com/accelio-cart-drawer?utm_source=BOGOS\&utm_medium=docs), a free, well-designed, and fully customizable cart drawer app that’s best integrated with BOGOS.
+Besides the Shopify Theme Editor, you can also add BOGOS blocks directly inside supported cart drawer apps. Currently, this works with [Accelio Slide Cart Drawer](https://apps.shopify.com/accelio-cart-drawer?utm_source=BOGOS\&utm_medium=Help_Doc\&utm_campaign=Adjust_Blocks), a free, well-designed, and fully customizable cart drawer app that’s best integrated with BOGOS.
 
 ![](<../.gitbook/assets/Pasted image 2026-11-23 09.38.20.png>)
 
